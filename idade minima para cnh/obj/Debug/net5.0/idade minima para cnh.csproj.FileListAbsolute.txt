@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\ref\idade minima para cnh.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\bin\Debug\net5.0\idade minima para cnh.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\ref\idade minima para cnh.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\idade minima para cnh\obj\Debug\net5.0\idade minima para cnh.genruntimeconfig.cache

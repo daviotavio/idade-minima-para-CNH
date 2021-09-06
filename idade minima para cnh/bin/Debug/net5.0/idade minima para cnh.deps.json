@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "idade minima para cnh/1.0.0": {
+        "runtime": {
+          "idade minima para cnh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "idade minima para cnh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
